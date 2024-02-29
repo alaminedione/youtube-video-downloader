@@ -1,0 +1,27 @@
+# mes notes 
+/NOTE.md
+#fichier teporaire
+tmp.md
+# Dépendances
+/node_modules
+
+# Fichiers de configuration d'environnement
+.env
+
+# Fichiers de log
+*.log
+
+# Dossiers de l'éditeur de texte et configurations temporaires
+.idea
+*.swp
+*.swo
+.vscode
+
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Dossiers de build/output
+/dist
+/build
